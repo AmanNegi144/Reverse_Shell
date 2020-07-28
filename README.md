@@ -10,3 +10,5 @@ Reverse_Shell is a script written in python, it is used for for generating rever
 <h2>Demo:</h2>
 ![Image Demo](https://github.com/AmanNegi144/Reverse_Shell/tree/master/img/Demo.png)
 
+
+![Image of hidden code](https://github.com/AmanNegi144/DLL-Hijacking/blob/master/Images/Hexcode_in_comments.png)
