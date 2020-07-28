@@ -5,4 +5,4 @@
 reverse_shell.py -l [languge] -ip [ip_Addr] -p [port]
 
 <h2>About:</h2>
-Reverse_Shell is a script written in python, it is used for for generating reverse shell command in different language or tool (according to requirment). Its quite easy to use simply suplly the your ip address and the port number you want to listen 
+Reverse_Shell is a script written in python, it is used for for generating reverse shell command in different language or tool (according to requirment). Its quite easy to use simply suplly the your ip address and the port number you want to listen. 
